@@ -1,4 +1,5 @@
 # Asynchronous Delays
+Note: This document makes use of the ECMA Script proposal [Asynchronous Blocks](https://github.com/johnhenry/asynchronous-blocks).
 
 Within an asynchronous [block]() or [function](), the JavaScript's _await_ keyword in JavaScript allows execution to "step out" of and "return to" a context. We take advantage of this to arbitrarily pause code execution for a specific amount of time.
 
