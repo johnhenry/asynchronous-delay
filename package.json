@@ -1,0 +1,11 @@
+{
+  "name": "asynchronous-delay",
+  "version": "0.0.0",
+  "description": "Within an asynchronous [block]() or [function](), the JavaScript's _await_ keyword in JavaScript allows execution to \"step out\" of and \"return to\" a context. We take advantage of this to arbitrarily pause code execution for a specific amount of time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
